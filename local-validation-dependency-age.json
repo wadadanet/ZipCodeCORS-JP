@@ -1,0 +1,23 @@
+{
+  "repo": "ZipCodeCORS-JP",
+  "auditedUTC": "2026-10-30T01:01:50.812795+00:00",
+  "minimumReleaseAgeMinutes": 10080,
+  "source": "https://registry.npmjs.org/<encoded-package> time[version]",
+  "packageVersionCount": 0,
+  "checkedCount": 0,
+  "blocked": [],
+  "errors": [],
+  "versionsAdded": [],
+  "versionsRemoved": [],
+  "note": "No dependency install or lifecycle script was run. Missing timestamps or packages younger than 10080 minutes block approval.",
+  "lockfiles": [
+    {
+      "path": "pnpm-lock.yaml",
+      "sha256": "17c814b167307942d3609c7b9d916ceddb85839573ab39baa114e30edb132a1a"
+    }
+  ],
+  "originalLockFiles": [
+    "package-lock.json"
+  ],
+  "latestPublishedUTC": null
+}
