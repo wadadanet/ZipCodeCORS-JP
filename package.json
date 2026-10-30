@@ -5,5 +5,6 @@
   "author": "",
   "license": "MIT",
   "type": "module",
-  "description": ""
+  "description": "",
+  "packageManager": "pnpm@10.33.4"
 }
